@@ -1,6 +1,6 @@
 import axios from 'axios';
 
-const url = 'memories-api-eight.vercel.app/memes';
+const url = 'https://memories-api-eight.vercel.app/memes';
 export const fetchPosts = () => axios.get(url);
 export const createPost = (newPost) => axios.post(url, newPost);
 export const likePost = (id) => axios.patch(`${url}/${id}/likePost`);
