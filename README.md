@@ -16,7 +16,7 @@ I used MERN stack to develope this application. <br/>
 * [MONGODB](https://gist.github.com/nrollr/9f523ae17ecdbb50311980503409aeb3)
 * [NODE](https://nodejs.org/en/download/)
 * [npm](https://nodejs.org/en/download/package-manager/)
-  ### Installing
+  ### Installation
 Front-End - React + Redux <br/>
 Back-End - Node.js, Express.js & MongoDB 
 * Clone or download <br/>
